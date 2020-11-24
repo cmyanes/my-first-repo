@@ -7,5 +7,8 @@ We will have a warm winter.
 File: regular
 Type: texto
 5 lines
-edited with vim
+<<<<<<< HEAD
+=======
+edited with nano
+>>>>>>> readme-info
 
