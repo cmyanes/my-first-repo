@@ -5,5 +5,5 @@ This year we got a sunny and hot autumn.
 We will have a warm winter.
 
 File: regular
-Type: text
+Type: texto
 5 lines
